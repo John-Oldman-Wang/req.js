@@ -1,0 +1,22 @@
+{
+  "name": "req",
+  "version": "1.0.0",
+  "description": "request for browser",
+  "main": "request.js",
+  "scripts": {
+    "test": "yarn run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nokisnojok/req.js.git"
+  },
+  "keywords": [
+    "XMLHttprequest"
+  ],
+  "author": "wanglin (843022618@qq.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nokisnojok/req.js/issues"
+  },
+  "homepage": "https://github.com/nokisnojok/req.js#readme"
+}
